@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 name: hacker-blog
 title: null
-gems:
+plugins:
   - jekyll-feed
