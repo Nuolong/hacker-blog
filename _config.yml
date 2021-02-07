@@ -3,3 +3,5 @@ name: hacker-blog
 title: null
 plugins:
   - jekyll-feed
+
+baseurl: "/"
