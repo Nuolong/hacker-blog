@@ -1,1 +1,1 @@
-## [Reading 01](https://nuolong.github.io/hacker-blog/reading01)
+## [<center>Reading 01</center>](https://nuolong.github.io/hacker-blog/reading01)
