@@ -3,4 +3,4 @@
 ## [<center>Reading 03</center>](https://nuolong.github.io/hacker-blog/2021/02/20/reading03)
 ## [<center>Reading 04</center>](https://nuolong.github.io/hacker-blog/2021/03/07/reading04)
 ## [<center>Reading 05</center>](https://nuolong.github.io/hacker-blog/2021/03/13/reading05)
-
+## [<center>Reading 06</center>](https://nuolong.github.io/hacker-blog/2021/03/21/reading06)
